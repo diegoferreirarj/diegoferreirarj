@@ -31,10 +31,10 @@ Meus hobbies incluem trilhas, praias, assistir filmes, séries e jogar (principa
 
 ## Contato
 
-[![E-mail](https://github.com/ramonsilvanet/diegoferreirarj/blob/master/email.png)](mailto:diegoferreirajava@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://github.com/ramonsilvanet/diegoferreirarj/blob/master/linkedin.png)](https://www.linkedin.com/in/diegoferreirarj)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Facebook](https://github.com/ramonsilvanet/diegoferreirarj/blob/master/facebook.png)](http://www.facebook.com/diegosantosferreira)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Twitter](https://github.com/ramonsilvanet/diegoferreirarj/blob/master/twitter-2.png)](https://twitter.com/diegoferreirarj)
+[![E-mail](https://github.com/diegoferreirarj/diegoferreirarj/blob/master/email.png)](mailto:diegoferreirajava@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://github.com/diegoferreirarj/diegoferreirarj/blob/master/linkedin.png)](https://www.linkedin.com/in/diegoferreirarj)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Facebook](https://github.com/diegoferreirarj/diegoferreirarj/blob/master/facebook.png)](http://www.facebook.com/diegosantosferreira)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitter](https://github.com/diegoferreirarj/diegoferreirarj/blob/master/twitter.png)](https://twitter.com/diegoferreirarj)
 
 <!--
 **diegoferreirarj/diegoferreirarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
