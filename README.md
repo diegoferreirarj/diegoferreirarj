@@ -5,7 +5,7 @@
 
 Atuo como engenheiro de software na Movile Pay.
 
-Trabalho como Engenheiro de Software desde de 2008, e passei por empresas como [Thoughtworks](https://www.thoughtworks.com/pt), [Creditas](https://www.creditas.com) e [Capgemini](https://www.capgemini.com/br-pt/). Trabalhei em projetos de grande impacto como a transformação digital na [LATAM Airlines](https://www.thoughtworks.com/pt/clients/latam).
+Trabalho como Engenheiro de Software desde de 2008, e passei por empresas como [Loft](https://www.loft.com.br), [Movile](https://www.movile.com.br), [Thoughtworks](https://www.thoughtworks.com), [Creditas](https://www.creditas.com) e [Capgemini](https://www.capgemini.com/br-pt/). Trabalhei em projetos de grande impacto como a transformação digital na [LATAM Airlines](https://www.thoughtworks.com/pt/clients/latam).
 
 ## Formação
 * Ensino médio Técnico em Eletrônica pelo FAETEC/RJ
