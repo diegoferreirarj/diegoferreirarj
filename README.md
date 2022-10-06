@@ -32,7 +32,7 @@ Meus hobbies incluem trilhas, praias, assistir filmes, séries e jogar (principa
 ## Contato
 
 [![LinkedIn](https://raw.githubusercontent.com/diegoferreirarj/diegoferreirarj/main/linkedin.png)](https://www.linkedin.com/in/diegoferreirarj)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Facebook](https://raw.githubusercontent.com/diegoferreirarj/diegoferreirarj/main/facebook.png)](https://www.facebook.com/diegosantosferreira)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Facebook](https://raw.githubusercontent.com/diegoferreirarj/diegoferreirarj/main/facebook.png)](https://www.facebook.com/diegosferreirarj)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Twitter](https://raw.githubusercontent.com/diegoferreirarj/diegoferreirarj/main/twitter.png)](https://www.twitter.com/diegoferreirarj)&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--
